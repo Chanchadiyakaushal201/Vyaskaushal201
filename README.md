@@ -13,13 +13,13 @@ I am passionate about converting raw data into structured insights that support 
 
 ---
 
-## 🎯 Career Objective
+## Career Objective
 
 To begin my career as a Data Analyst in a growth-oriented organization where I can apply my analytical skills, continuously learn advanced tools like SQL and Power BI, and contribute to data-driven decision-making.
 
 ---
 
-## 📊 Core Strengths
+## Core Strengths
 
 - Analytical thinking  
 - Attention to detail  
@@ -28,7 +28,7 @@ To begin my career as a Data Analyst in a growth-oriented organization where I c
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 - Strengthening SQL fundamentals  
 - Learning Power BI for advanced visualization  
@@ -36,3 +36,8 @@ To begin my career as a Data Analyst in a growth-oriented organization where I c
 - Improving business storytelling with data  
 
 --- 
+
+## Connect With Me
+
+**LinkedIn:**  
+https://www.linkedin.com/in/kaushal-vyas-57199b2a8/
